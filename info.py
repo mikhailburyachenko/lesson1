@@ -1,2 +1,2 @@
-user_info={"first_name": "Михаил","second_name": "Буряченко"}
+user_info={"first_name": "Дмитрий","second_name": "Буряченко"}
 print (user_info)
